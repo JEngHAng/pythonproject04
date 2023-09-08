@@ -14,7 +14,6 @@ def FuncB( name , year ) :
 #year = int(input("Input Year : "))
 
 print (f"Sum is {FuncA(20 , 30)}")
-print (f"Name year is {FuncB('JEng' , 2003)}")
 x , y = FuncB("JEng" , 2003)
 
 print (f"{x} year {y} old")
