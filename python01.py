@@ -6,9 +6,9 @@ def FuncA() : # " : " ใส่ตลอด
     print ("Jonh....")
     print ("END NA\n")
     # NO return
-
 def FuncB() :
     print ("HI,HI...\n")
+
 FuncA()
 FuncB()
 FuncA()

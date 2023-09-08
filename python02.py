@@ -10,6 +10,6 @@ def FuncA( x , y) :
 def FuncB( x ) :
     print (f"X is {x} mai ruu.\n")
 
-FuncA(27 , 10)
-FuncA(10 , 2003)
-FuncB("The Best")
+FuncA(27 , 10)      #Argument
+FuncA(10 , 2003)    #Argument
+FuncB("The Best")   #str use "" , ''
